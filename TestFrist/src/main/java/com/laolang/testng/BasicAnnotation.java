@@ -18,6 +18,7 @@ public class BasicAnnotation {
     @BeforeMethod
     public void beforeMethod(){
         System.out.println("测试之前的步骤");
+
     }
 
     @AfterMethod
@@ -35,5 +36,15 @@ public class BasicAnnotation {
         System.out.println("类之后步骤");
     }
 
+    @BeforeSuite
+    public void beforeSuite(){
+        System.out.println("测试套件之前");
+    }
+
+
+    @AfterSuite
+    public void afterSuite(){
+        System.out.println("测试套件之后");
+    }
 
 }

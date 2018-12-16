@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="测试">
+    <test name="test1">
+        <classes>
+            <class name="com.laolang.testng.suite.suite"/>
+            <class name="com.laolang.testng.suite.test1"/>
+        </classes>
+    </test>
+
+    <test name="test2">
+        <classes>
+            <class name="com.laolang.testng.suite.suite"/>
+            <class name="com.laolang.testng.suite.test2"/>
+        </classes>
+    </test>
+
+
+</suite>
