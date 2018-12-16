@@ -2,15 +2,15 @@
 <suite name="测试">
     <test name="test1">
         <classes>
-            <class name="com.laolang.testng.suite.suite"/>
-            <class name="com.laolang.testng.suite.test1"/>
+            <class name="com.laolang.testng.suite.Suite"/>
+            <class name="com.laolang.testng.suite.Test1"/>
         </classes>
     </test>
 
     <test name="test2">
         <classes>
-            <class name="com.laolang.testng.suite.suite"/>
-            <class name="com.laolang.testng.suite.test2"/>
+            <class name="com.laolang.testng.suite.Suite"/>
+            <class name="com.laolang.testng.suite.Test2"/>
         </classes>
     </test>
 

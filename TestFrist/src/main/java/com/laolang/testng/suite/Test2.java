@@ -2,9 +2,9 @@ package com.laolang.testng.suite;
 
 import org.testng.annotations.Test;
 
-public class test1 {
+public class Test2 {
     @Test
     public void test(){
-        System.out.println("test1");
+        System.out.println("test2");
     }
 }

@@ -2,7 +2,7 @@ package com.laolang.testng.suite;
 
 import org.testng.annotations.*;
 
-public class suite {
+public class Suite {
     @BeforeSuite
     public void beforSuite(){
         System.out.println("套件之前");
