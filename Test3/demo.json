@@ -1,0 +1,14 @@
+[
+  {
+    "description":"测试玩玩",
+    "request":{
+      "uri":"/demo"
+    },
+    "response":{
+      "text":"显示的东东",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  }
+]

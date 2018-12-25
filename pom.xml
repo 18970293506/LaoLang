@@ -10,6 +10,7 @@
 
     <modules>
         <module>TestFrist1</module>
+        <module>TestFrist2</module>
     </modules>
 
 </project>
